@@ -1,3 +1,4 @@
+# KR2: Stropus
 import os
 import socket
 
